@@ -8,8 +8,8 @@ Nascido e criado no Brasil!
   
 Atualmente trabalho como desenvolvedor fullstack na Sankhya,  
   
-Enquanto isso estive aprimorando meu código,
-Revisitando os básicos, estudando coisas novas e desenvolvendo projetos pessoais!  
+Enquanto isso estive aprimorando meu código,  
+revisitando os básicos, estudando coisas novas e desenvolvendo projetos pessoais!  
   
 Aqui o meu LinkedIn: https://www.linkedin.com/in/lucasl36/  
 Pode me chamar lá!  
