@@ -6,7 +6,7 @@ Oi, eu sou o @lucasl36!
   
 Nascido, criado e morando no Brasil!  
   
-Atualmente trabalho como desenvolvedor fullstack na Sankhya.
+Atualmente trabalho como desenvolvedor backend na ACT Digital no projeto da Sicoob.
   
 E nas horas vagas estive aprimorando o meu código,  
 revisitando os básicos, estudando coisas novas e desenvolvendo projetos pessoais!  

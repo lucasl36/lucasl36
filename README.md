@@ -6,9 +6,9 @@ Hi, I'm @lucasl36!
 
 Born, raised and living in Brazil right now!  
   
-Currently working as a fullstack developer for Sankhya.
+Currently working as a backend developer for ACT Digital on the Sicoob project.
   
-In the meantime I've been boosting my coding skills,  
+In the meantime I've been honing my coding skills,  
 revisiting the basics, studiyng new things and developing personal projects!  
   
 Here is my LinkedIn: https://www.linkedin.com/in/lucasl36/  
