@@ -4,14 +4,10 @@
 
 Oi, eu sou o @lucasl36!  
   
-Nascido, criado e morando no Brasil!  
+Desenvolvedor Fullstack com ênfase em Backend. Cai de paraquedas na área da programação há mais de 10 anos atrás e hoje é uma paixão. Profissionalmente já atuei com sistemas de rastreamento de insumos, gestão de fazendas, ecommerce, PDV para varejo e atacado além de ERP. 
+
+No meu trabalho mais recente assumi o desafio de atuar alocado em uma empresa nacional do setor financeiro, construindo APIs escaláveis e seguras para aplicativos Mobile, com o foco maior em garantir a proteção de dados e fornecer uma ótima experiência ao usuário final, entregando um sistema seguro e otimizado.
+
+Tenho me interessado pela área de DevOps e Arquitetura, aprofundando meus conhecimentos em padrões de projeto e infraestrutura. Nas horas vagas desenvolvo projetos pessoais com o intuito de entender todo o processo de entrega de um software de uma ponta a outra.
   
-Atualmente trabalho como desenvolvedor backend na ACT Digital no projeto da Sicoob.
-  
-E nas horas vagas estive aprimorando o meu código,  
-revisitando os básicos, estudando coisas novas e desenvolvendo projetos pessoais!  
-  
-Se interessar aqui o meu LinkedIn: https://www.linkedin.com/in/lucasl36/  
-Pode me chamar por lá!  
-  
-Até mais!
+LinkedIn: https://www.linkedin.com/in/lucasl36/
